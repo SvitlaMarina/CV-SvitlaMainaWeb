@@ -3,6 +3,7 @@
   font-family: Tangerine;
   font-size: 24px;
 }
+
 .brand {
   margin-right: 60px;
 }
@@ -128,7 +129,7 @@
 }
 
 .my-photo {
-  width: 90%;
+  max-width: 400px;
   border-radius: 15px 15px 0 15px;
   display: block;
   margin: 0 auto;
@@ -173,4 +174,12 @@
 }
 .date-education {
   color: gray;
+}
+.primary-link {
+  color: white;
+  text-decoration: none;
+}
+.primary-link:hover {
+  color: white;
+  text-decoration: underline;
 }
