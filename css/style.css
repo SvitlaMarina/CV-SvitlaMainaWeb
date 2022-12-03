@@ -213,4 +213,12 @@
   color: white;
   text-decoration: underline;
 }
+
+.footer__icon {
+  color: #fff;
+}
+
+.footer__icon:hover {
+  color: #ffc107;
+}
 /*# sourceMappingURL=style.css.map */
