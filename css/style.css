@@ -221,4 +221,8 @@
 .footer__icon:hover {
   color: #ffc107;
 }
+
+.contact-link:hover {
+  text-decoration: underline !important;
+}
 /*# sourceMappingURL=style.css.map */
